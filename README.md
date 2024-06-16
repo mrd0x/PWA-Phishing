@@ -14,7 +14,7 @@ A user lands on `index.html` and clicks the "Install Microsoft Application" butt
 
 * `index.html` - Landing page that has an "Install Microsoft Application" button.
 
-* `manifset.json` - The PWA manifest file.
+* `manifest.json` - The PWA manifest file.
 
 * `service-worker.js` - The PWA service worker.
 
